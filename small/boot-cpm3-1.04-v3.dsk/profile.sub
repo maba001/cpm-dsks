@@ -1,0 +1,17 @@
+xpalette 0 0 0 127 255 63
+rtc
+language 0
+setkeys key.us
+setkeys key.cpm
+initdir m:
+<y
+set m: [access=on, update=on]
+pip
+<m:=a:pip.com
+<m:=a:dir.com
+<m:=a:import.com
+<m:=a:setkeys.com
+<m:=a:key*.*
+<
+setdef m:,a:,* [order=(sub,com)]
+m:

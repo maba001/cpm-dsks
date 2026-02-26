@@ -1,0 +1,51 @@
+14 N S  "^E"     ^E
+14 A SA "^'#9E'" ^QE
+ 6 N S  "^D"     ^D
+79 N S  "^X"     ^X
+79 A SA "^'#98'" ^QX
+15 N S  "^S"     ^S
+ 5 N    "^D"     ^D
+ 5 A    "^S"     ^S
+ 5   S  "^F"     ^F
+ 5   SA "^A"     ^A
+13 N    "^'#9C'" ^QD
+13   S  "^'#9C'" ^QD
+13   SA "^'#9D'" ^QS
+12 N    "^C"     ^C
+12 A    "^R"     ^R
+12   S  "^'#90'" ^QC
+12   SA "^'#91'" ^QR
+20 N    "^'#92'" ^QF
+20   S  "^'#93'" ^QA
+10 N    "^'#94'" ^KB
+10   S  "^'#95'" ^KK
+11 N S  "^'#96'" ^KC
+ 3 N S  "^'#97'" ^KV
+ 1 N S  "^B"     ^B
+23 N S  "^V"     ^V
+16 N S  "^G"     ^G
+16 A SA "^'#9A'" ^QY
+72 A SA "^'#9B'" ^Qdel
+ 8 N S  "^'#1B'" esc
+66 N S  "^U"     ^U
+
+E #90 "^QC"
+E #91 "^QR"
+E #92 "^QF"
+E #93 "^QA"
+E #94 "^KB"
+E #95 "^KK"
+E #96 "^KC"
+E #97 "^KV"
+E #98 "^QX"
+E #9A "^QY"
+E #9B "^Q^'#7F'"
+E #9C "^QD"
+E #9D "^QS"
+E #9E "^QE"
+KB"
+E #95 "^KK"
+E #96 "^KC"
+E #97 "^KV"
+E #98 "^QX"
+E
